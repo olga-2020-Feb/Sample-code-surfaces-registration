@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../TailorNet-master/TailorNet-master" />
+    <content url="file://$MODULE_DIR$/../chumpy-master/chumpy-master" />
+    <content url="file://$MODULE_DIR$/../mesh-master/mesh-master/build/lib.win-amd64-3.8" />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
