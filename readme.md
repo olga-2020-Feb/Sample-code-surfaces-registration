@@ -1,0 +1,1 @@
+The code assumes you have Tailornet and its class SMPL4Garment
